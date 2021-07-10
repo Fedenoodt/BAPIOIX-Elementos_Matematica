@@ -1,0 +1,25 @@
+Práctica para el final
+
+1. Dada la proposición p ^ q → r v t, indicar las proposiciones que son verdaderas:
+a. p y r b. p y q c. r y t d. q y t
+
+2. Joaquín asiste a un analista de datos. Su trabajo consiste en preparar los datos para
+que el analista pueda ejecutar su trabajo.
+a. Para trabajar en Python el analista necesita que se identifiquen si los siguientes
+datos que utilizará para generar variables y operaciones entre ellas son reales
+con parte decimal (float) o entero (int).
+Para ello se solicita a Joaquín que clasifique los siguientes números según el
+campo numérico al que pertenece.
+Ayuda a Joaquín marcando con X todas las opciones correctas.
+
+b. ¿Cómo podría reexpresar Joaquín el número E de la tabla?
+c. ¿Cómo debería plantear algebraicamente Joaquín que el triple de un número
+multiplicado por su sucesor es igual a la raíz cúbica de la tercia parte de ese
+mismo número?
+3. De un total de 55 usuarios de transporte urbano:
+- 25 prefieren viajar en colectivo
+- 32 prefieren viajar en tren
+- 33 prefieren viajar en taxi
+- 5 prefieren las tres opciones anteriores.
+¿Cuántas personas prefieren solo 2 de estas opciones?
+4. ¿Cuál es el equivalente hexadecimal de 231010?

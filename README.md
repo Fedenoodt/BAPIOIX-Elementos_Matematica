@@ -1,1 +1,0 @@
-# BAPIOIX-Elementos_Matematica

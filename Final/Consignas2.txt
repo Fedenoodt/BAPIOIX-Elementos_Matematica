@@ -1,0 +1,32 @@
+Práctica de examen 2
+
+1. Si la proposición p ^ q → r v t es FALSA, indicar las proposiciones que son
+verdaderas:
+a. p y r b. p y q c. r y t d. q y t
+
+2. Si la proposición p → (r ^ s) es FALSA entonces se puede afirmar que:
+a. “p” es necesariamente verdadera
+b. “r” es necesariamente verdadera
+c. “s” puede ser verdadera
+Marcar la opción correcta:
+I. Solo a. II. Solo b. III. a. y c. IV. b. y c. V. solo c.
+
+3. Indique con un ejemplo:
+a. qué es un vector
+b. cuál es la condición para multiplicar dos vectores
+
+4. Se sabe que de un total de 4000 personas que circulan diariamente por una
+estación de transferencia local que une dos ciudades, todas utilizan algún medio de
+transporte. Los medios de transporte disponibles son tres: A: Colectivo; B: Tren; C:
+van.
+A partir de un relevamiento se obtuvieron las preferencias por la utilización de cada
+medio de transporte disponible. El mismo arrojó que:
+1200 prefieren colectivo
+1500 prefieren viajar en van.
+300 son indiferentes a viajar en colectivo o tren
+350 prefieren tanto tren como van
+600 son indiferentes a viajar en colectivo o van.
+200 prefieren utilizar los tres medios de transporte por igual.
+Responder:
+a. ¿cuántos utilizan/prefieren un solo medio de transporte?
+b. ¿cuántos utilizan a lo sumo 2 medios de transporte?
